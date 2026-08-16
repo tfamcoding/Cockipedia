@@ -1,0 +1,6 @@
+'''Imported field note''' confirms that standalone wikitext files can be imported into Cockipedia.
+
+== Observation ==
+The importer derives the article title from the filename and preserves the source text.
+
+[[Category:Tests]]
